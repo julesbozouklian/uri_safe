@@ -13,6 +13,8 @@ options:
   --rearm REARM    python3 uri_safe.py --rearm 'hXXp[:]//exmple[.]com'
 ```
 
+### URI support
+
 Supports the following protocol URI schemes:  
 https://www.iana.org/assignments/uri-schemes/uri-schemes.xhtml  
 https://en.wikipedia.org/wiki/List_of_URI_schemes  
