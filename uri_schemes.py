@@ -59,17 +59,25 @@ uri_map = {
     "dvb":                          "(dvb)",
     ### E
     "ed2k":                         "(ed2k)",
+    "elsi":                         "(elsi)",
+    "embedded":                     "(embedded)",
+    "ens":                          "(ens)",
+    "ethereum":                     "(ethereum)",
     "example":                      "(example)",
     ### F
     "facetime":                     "(facetime)",
     "fax":                          "(fax)",
     "feed":                         "(feed)",
+    "feedready":                    "(feedready)",
+    "fido":                         "(fido)",
     "file":                         "(file)",
     "filesystem":                   "(filesystem)",
     "finger":                       "(finger)",
+    "first-run-pen-experience":     "(first-run-pen-experience)"
     "fish":                         "(fish)",
     "fm":                           "(fm)",
     "ftp":                          "(ftp)",
+    "fuschia-pkg":                  "(fuschia-pkg)",
     ### G
     "gemini":                       "(gemini)",
     "geo":                          "(geo)",
@@ -79,6 +87,7 @@ uri_map = {
     "go":                           "(go)",
     "gopher":                       "(gopher)",
     "gtalk":                        "(gtalk)",
+    "graph":                        "(graph)",
     ### H
     "ham":                          "(ham)",
     "hcap":                         "(hcap)",
