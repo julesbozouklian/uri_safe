@@ -84,7 +84,7 @@ uri_map = {
     "file":                         "(file)",
     "filesystem":                   "(filesystem)",
     "finger":                       "(finger)",
-    "first-run-pen-experience":     "(first-run-pen-experience)"
+    "first-run-pen-experience":     "(first-run-pen-experience)",
     "fish":                         "(fish)",
     "fm":                           "(fm)",
     "ftp":                          "(ftp)",
