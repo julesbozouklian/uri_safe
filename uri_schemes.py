@@ -11,10 +11,13 @@ uri_map = {
     # OFFICIAL URI SCHEMES
     "http": 	                      "hXXp",
     "https": 	                      "hXXps",
+    ### A
     "aaa":                          "(aaa)",
     "aaas":                         "(aaas)",
     "about":                        "(about)",
     "acap":                         "(acap)",
+    "acct":                         "(acct)",
+    "acd":                          "(acd)",
     "acr":                          "(acr)",
     "adiumxtra":                    "(adiumxtra)",
     "afp":                          "(afp)",
@@ -24,11 +27,13 @@ uri_map = {
     "attachment":                   "(attachment)",
     "aw":                           "(aw)",
     "amss":                         "(amss)",
+    ### B
     "barion":                       "(barion)",
     "beshare":                      "(beshare)",
     "bitcoin":                      "(bitcoin)",
     "blob":                         "(blob)",
     "bolo":                         "(bolo)",
+    ### C
     "callto":                       "(callto)",
     "cap":                          "(cap)",
     "chrome":                       "(chrome)",
@@ -40,6 +45,7 @@ uri_map = {
     "content":                      "(content)",
     "crid":                         "(crid)",
     "cvs":                          "(cvs)",
+    ### D
     "dab":                          "(dab)",
     "data":                         "(data)",
     "dav":                          "(dav)",
@@ -51,8 +57,10 @@ uri_map = {
     "drm":                          "(drm)",
     "dtn":                          "(dtn)",
     "dvb":                          "(dvb)",
+    ### E
     "ed2k":                         "(ed2k)",
     "example":                      "(example)",
+    ### F
     "facetime":                     "(facetime)",
     "fax":                          "(fax)",
     "feed":                         "(feed)",
@@ -62,6 +70,7 @@ uri_map = {
     "fish":                         "(fish)",
     "fm":                           "(fm)",
     "ftp":                          "(ftp)",
+    ### G
     "gemini":                       "(gemini)",
     "geo":                          "(geo)",
     "gg":                           "(gg)",
@@ -70,8 +79,14 @@ uri_map = {
     "go":                           "(go)",
     "gopher":                       "(gopher)",
     "gtalk":                        "(gtalk)",
+    ### H
+    "ham":                          "(ham)",
+    "hcap":                         "(hcap)",
     "h323":                         "(h323)",
     "hcp":                          "(hcp)",
+    "hydrazone":                    "(hydrazone)",
+    "hyper":                        "(hyper)",
+    ### I
     "iax":                          "(iax)",
     "icap":                         "(icap)",
     "icon":                         "(icon)",
@@ -81,6 +96,7 @@ uri_map = {
     "info":                         "(info)",
     "iotdisco":                     "(iotdisco)",
     "ipn":                          "(ipn)",
+    "ipns":                         "(ipns)",
     "ipp":                          "(ipp)",
     "ipps":                         "(ipps)",
     "irc":                          "(irc)",
@@ -91,14 +107,23 @@ uri_map = {
     "iris.xpc":                     "(iris.xpc)",
     "iris.xpcs":                    "(iris.xpcs)",
     "iris.lws":                     "(iris.lws)",
+    "isostore":                     "(isostore)",
     "itms":                         "(itms)",
+    ### J
     "jabber":                       "(jabber)",
     "jar":                          "(jar)",
     "jms":                          "(jms)",
+    ### K
     "keyparc":                      "(keyparc)",
+    ### L
     "lastfm":                       "(lastfm)",
+    "lbry":                         "(lbry)",
     "ldap":                         "(ldap)",
     "ldaps":                        "(ldaps)",
+    "leaptofrogans":                "(leaptofrogans)",
+    "lorawan":                      "(lorawan)",
+    "lvlt":                         "(lvlt)",
+    ### M
     "magnet":                       "(magnet)",
     "mailto":                       "(mailto)",
     "maps":                         "(maps)",
@@ -132,15 +157,18 @@ uri_map = {
     "mtqp":                         "(mtqp)",
     "mumble":                       "(mumble)",
     "mvn":                          "(mvn)",
+    ### N
     "news":                         "(news)",
     "nfs":                          "(nfs)",
     "ni":                           "(ni)",
     "nih":                          "(nih)",
     "nntp":                         "(nntp)",
     "notes":                        "(notes)",
+    ### O
     "oid":                          "(oid)",
     "opaquelocktoken":              "(opaquelocktoken)",
     "openpgp4fpr":                  "(openpgp4fpr)",
+    ### P
     "pack":                         "(pack)",
     "palm":                         "(palm)",
     "paparazzi":                    "(paparazzi)",
@@ -152,7 +180,9 @@ uri_map = {
     "prospero":                     "(prospero)",
     "proxy":                        "(proxy)",
     "psyc":                         "(psyc)",
+    ### Q
     "query":                        "(query)",
+    ### R
     "redis":                        "(redis)",
     "rediss":                       "(rediss)",
     "reload":                       "(reload)",
@@ -163,6 +193,7 @@ uri_map = {
     "rtmfp":                        "(rtmfp)",
     "rtmp":                         "(rtmp)",
     "rtsp":                         "(rtsp)",
+    ### S
     "s3":                           "(s3)",
     "secondlife":                   "(secondlife)",
     "sftp":                         "(sftp)",
@@ -186,33 +217,49 @@ uri_map = {
     "stun":                         "(stun)",
     "stuns":                        "(stuns)",
     "svn":                          "(svn)",
+    ### T
     "tag":                          "(tag)",
     "teamspeak":                    "(teamspeak)",
     "tel":                          "(tel)",
+    "teliaeid":                     "(teliaeid)",
     "telnet":                       "(telnet)",
     "tftp":                         "(tftp)",
     "things":                       "(things)",
     "thismessage":                  "(thismessage)",
     "tn3270":                       "(tn3270)",
     "tip":                          "(tip)",
+    "tool":                         "(tool)",
     "turn":                         "(turn)",
     "turns":                        "(turns)",
     "tv":                           "(tv)",
+    ### U
     "udp":                          "(udp)",
     "unreal":                       "(unreal)",
     "urn":                          "(urn)",
     "ut2004":                       "(ut2004)",
+    "uuid-in-package":              "(uuid-in-package)",
+    ### V
+    "v-event":                      "(v-event)",
     "vemmi":                        "(vemmi)",
     "ventrilo":                     "(ventrilo)",
+    "ves":                          "(ves)",
     "videotex":                     "(videotex)",
     "view-source":                  "(view-source)",
     "vnc":                          "(vnc)",
+    "vscode":                       "(vscode)",
+    "vscode-insiders":              "(vscode-insiders)",
+    "vsls":                         "(vsls)",
+    ### W
     "wais":                         "(wais)",
+    "wcr":                          "(wcr)",
     "webcal":                       "(webcal)",
+    "wifi":                         "(wifi)",
+    "wpid":                         "(wpid)",
     "ws":                           "(ws)",
     "wss":                          "(wss)",
     "wtai":                         "(wtai)",
     "wyciwyg":                      "(wyciwyg)",
+    ### X
     "xcon":                         "(xcon)",
     "xcon-userid":                  "(xcon-userid)",
     "xfire":                        "(xfire)",
@@ -220,7 +267,9 @@ uri_map = {
     "xmlrpc.beeps":                 "(xmlrpc.beeps)",
     "xmpp":                         "(xmpp)",
     "xri":                          "(xri)",
+    ### Y
     "ymsgr":                        "(ymsgr)",
+    ### Z
     "z39.50":                       "(z39.50)",
     "z39.50r":                       "(z39.50r)",
     "z39.50s":                       "(z39.50s)",
