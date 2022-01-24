@@ -1,6 +1,7 @@
 # uri_safe
 
 A tool to de-fang or re-arm malicious urls.
+Mainly I develop this tool to manipulate IOC.
 
 ### Usage
 
