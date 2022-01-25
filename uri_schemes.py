@@ -9,8 +9,8 @@
 
 uri_map = {
     # OFFICIAL URI SCHEMES
-    "http": 	                      "hXXp",
-    "https": 	                      "hXXps",
+    "http": 	                    "hXXp",
+    "https": 	                    "hXXps",
     ### A
     "aaa":                          "(aaa)",
     "aaas":                         "(aaas)",
@@ -20,7 +20,7 @@ uri_map = {
     "acd":                          "(acd)",
     "acr":                          "(acr)",
     "adiumxtra":                    "(adiumxtra)",
-    "adt"                           "(adt)",
+    "adt":                          "(adt)",
     "afp":                          "(afp)",
     "afs":                          "(afs)",
     "aim":                          "(aim)",
